@@ -65,4 +65,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 - Inspired by object-oriented programming concepts.
 - Thanks to all open-source contributors for their valuable resources.
-```
