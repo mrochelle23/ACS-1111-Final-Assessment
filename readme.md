@@ -30,7 +30,7 @@ To run this project, ensure you have Python installed on your machine. You can d
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/CoffeeOrderingSystem.git
+   git clone https://github.com/mrochelle23/ACS-1111-Final-Assessment.git
    ```
 
 2. Navigate to the project directory:
